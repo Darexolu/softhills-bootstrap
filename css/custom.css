@@ -1,0 +1,93 @@
+.navbar-nav .nav-link{
+    margin-right: 90px;
+}
+.about{
+    border-bottom: 1px dashed black;
+}
+.row1,.row2{
+    margin-top: 10px;
+    margin: 0.5rem;
+}
+
+.btn{border: 1px solid black;
+    border-radius: 8px;
+}
+.bottom1{
+    border-bottom: 1px dashed black;
+    height: 500px;
+}
+.bottom2{
+    border-bottom: 1px dashed black;
+    height: 500px;
+
+}
+.bottom3{border-bottom: 1px dashed black;
+height: 500px;
+}
+.bottom4{border-bottom: 1px dashed black;
+    height: 500px;
+    }
+    *{
+        font-family: roboto;
+    }
+ .row3{
+    border-bottom: 1px dashed black;
+ }
+ .box1,.box2,.box3,.box4,.box5,.box6,.box7,.box8,.box9,.box10{
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    color: white;
+ }
+ .firstboxes,.secondboxes{
+    display: flex;
+    justify-content: space-around;
+ }
+  .box1{
+    background-color: #2e9696;
+  }
+  .box2{
+    background-color: yellow;
+  }
+  .box3{
+    background-color: #77bbbb;
+  }
+  .box4{
+    background-color: #f3680b;
+  }
+  .box5{
+    background-color: #f00a0a;
+  }
+  .box6{
+    background-color: #0e5519
+  }
+  .box7{
+    background-color: #ad3dda
+  }
+  .box8{
+    background-color: #fc79af
+  }
+  .box9{
+    background-color: #300575
+
+  }
+  .box10{
+    background-color: #107fdac7
+  }
+  .secondboxes{
+    border-bottom: 1px dashed black;
+  }
+  .why{
+    margin-top: 5px;
+  }
+  .that{
+    margin-top: 8px;
+  }
+  .work{ 
+    margin-top: 10px;
+  }
